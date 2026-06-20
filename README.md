@@ -1,3 +1,5 @@
+![Customer Churn Analysis](Images/customer_churn_thumbnail.png)
+
 # Customer Churn Analysis
 
 ## Project Overview
