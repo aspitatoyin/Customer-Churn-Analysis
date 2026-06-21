@@ -65,10 +65,10 @@ Created an interactive Tableau dashboard to highlight:
 
 ## Project Files
 
-* Dataset
-* Python Analysis Notebook
-* Tableau Dashboard
-* Project Report
+- Training and testing datasets
+- Python analysis notebook
+- Tableau dashboard
+- Project report
 
 ## Dashboard Preview
 
